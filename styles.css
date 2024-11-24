@@ -1,0 +1,88 @@
+body{
+    min-height: fit-content;
+    width:auto;
+    background-color: rgb(57, 232, 232);
+}
+
+#contain{
+    margin-left: 10rem;
+    padding-left: 3rem;
+}
+
+.heading{
+    text-align: center;
+    color: #ffffffc9;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    font-variant: all-small-caps;
+    font-size: 32px;
+    margin-right: 200px;
+}
+
+.data{
+    width: fit-content;
+    padding-top: 25px;
+    padding-left: 169px;
+    font-size: 20px;
+}
+
+.data .form {
+    font-size: 15px;
+    width: 329px;
+    height: 43px;
+    padding: 7px;
+    border-radius: 1px;
+}
+
+.data .two{
+    width: 159px;
+    font-size: 15px;
+    height: 51px;
+    padding-left: 6px;
+    border-radius: 1px;
+} 
+
+.data .send{
+    width: 208px;
+    height: 53px;
+    margin-left: 139px;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 1px;
+}
+
+textarea{
+    color: #686f75;
+    padding-top: 14px;
+    padding-left: 12px;
+    font-size: 16px;
+    width: 330px;
+    height: 95px;
+}
+
+.container{
+    width: fit-content;
+    min-height: fit-content;
+    margin-left: 1026px;
+    margin-top: -383px;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.container a{
+    color: yellow;
+    text-decoration: none;
+    margin-left: -12px;
+    font-size: 20px;
+}
+
+.container .p-left{
+    margin-left: -12px;
+    font-size: 20px;
+}
+
+.container li{
+    margin-left: -26px;
+    font-size: 20px;
+}
